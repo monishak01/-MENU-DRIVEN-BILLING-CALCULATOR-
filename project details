@@ -1,0 +1,60 @@
+Mini Project 1: Menu Driven Billing Calculator Using Python
+
+1. Project Title:
+Menu Driven Billing Calculator using Python
+
+2. Problem Statement:
+To design and implement a menu driven billing calculator that allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, division, view total bill amount, and exit the program.
+
+3. Objective:
+
+To perform basic billing calculations.
+
+To use menu driven programming.
+
+To understand operators, input, and output.
+
+To apply loops and conditional statements.
+
+4. Tools Used:
+
+Python 3
+
+VS Code / IDLE
+
+5. Description:
+This project simulates a simple billing calculator. The user can choose options from a menu to:
+
+Add item cost
+
+Subtract discount
+
+Multiply by quantity
+
+Divide amount
+
+Check total bill
+
+Exit the program
+
+The bill amount is updated after each operation, allowing the user to manage multiple items and apply calculations interactively.
+
+6. Algorithm:
+
+Initialize total bill amount.
+
+Display the billing menu with options.
+
+Read the user’s choice.
+
+Perform the selected operation: add, subtract, multiply, or divide.
+
+Display the updated bill amount.
+
+Repeat the process until the user chooses to exit.
+
+7. Result:
+The menu driven billing calculator successfully performs arithmetic operations and updates the bill amount correctly.
+
+8. Conclusion:
+This project demonstrates how Python can be used to create a simple menu driven billing calculator. It helps in understanding fundamental programming concepts such as input/output, loops, conditional statements, and basic operators.
